@@ -39,15 +39,15 @@ All weights are adjustable via sliders.
    git clone https://github.com/<your-username>/ai-idea-prioritizer.git
    cd ai-idea-prioritizer
 
-2. Create and activate a virtual environment
+2. Create and activate a virtual environment - 
     python3 -m venv .venv
     source .venv/bin/activate  # macOS/Linux
     .venv\Scripts\activate     # Windows
 
-3. Install dependencies
+3. Install dependencies - 
     pip install -r requirements.txt
 
-4. Run the app
+4. Run the app - 
     streamlit run app.py
 
-5. Visit http://localhost:8501 to use the app.
+5. Visit - http://localhost:8501 to use the app.
